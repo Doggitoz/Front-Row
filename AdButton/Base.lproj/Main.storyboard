@@ -35,7 +35,6 @@
                                 <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="openShop:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dGd-Is-63F"/>
-                                    <segue destination="rei-sA-U2T" kind="presentation" id="yOW-eQ-82U"/>
                                 </connections>
                             </button>
                         </subviews>
